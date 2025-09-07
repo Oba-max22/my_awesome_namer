@@ -1,3 +1,3 @@
-# flutter_application_1
+# my awesome namer
 
 A new Flutter project.
